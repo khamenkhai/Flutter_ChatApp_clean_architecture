@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723755046318",
+    "project_id": "message-app-cdf33",
+    "storage_bucket": "message-app-cdf33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723755046318:android:54de99eb122db37e32a43f",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTZgT4-0M4bZBp2vx1OolR_Uu5MFeJqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
